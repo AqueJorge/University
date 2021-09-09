@@ -28,6 +28,18 @@ This all became really apparent after the recent life change caused by COVID-19.
 
 ### Industry 4.0 & Priors
 
+#### Industry 1.0
+Industry 1.0 was the first industrial revolution due to the great technological, social and economic transformation for society around the 18th century. This revolution is famous for being the first time that people began to use large-scale machinery, it is to give in, the beginning of factories and jobs that used machines with water and steam engines such as trains or ships, in the same way workers was very popular at that time. Everything was through primary resources.
+
+#### Industry 2.0
+Industry 2.0 was given around the years in which the First World War occurred, society was forced to implement new technology and thanks to various researchers and inventors, Industry 2.0 was represented by mass production, the use of electricity and oil as energy and machinery drive.
+
+#### Industry 3.0
+The third industrial was the base of the abrupt takeoff of technology, basically it began to become popular in the 50s and was characterized by the fact that electronic and computer technology began to be implemented, of course, at that time it was just the beginning of technology. New technological tools began to be created and their implementation of production was a great success for quality.
+
+#### Industry 4.0
+Industry 4.0 is what we are experiencing today and many people believe that we are at the end of this revolution. The 4.0 industry can be seen as a super improved 3.0, electronic and computer technologies were implemented everywhere, basically it is the era of advanced technology, the internet of things (IoT) is the most characteristic of this revolution, big data , automation, cyber-physical systems are the results of this industry. The big difference between this industry and the first one is the change of manufacturing being mainly the replacement of robot workers who do the same work faster and cheaper.
+
 ### The Next Revolution in Production
 
 #### References
