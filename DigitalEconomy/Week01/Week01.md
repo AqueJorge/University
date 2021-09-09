@@ -43,6 +43,8 @@ Industry 4.0 is what we are experiencing today and many people believe that we a
 
 ### The Next Revolution in Production
 
+Industry 5.0 is only a few years away from us, currently many companies are working on the basis of this revolution. This industrial revolution is basically characterized by exponentially enhancing technology, artificial intelligences capable of doing any type of requested work are being developed, quantum computing, continuous deployment, high-speed telecommunications, complete automation, renewable energy, work directed to the technology, etc. The fifth industrial revolution is barely taking place today and may in a few years be able to see it in its entirety.
+
 #### References
 - [1] Pohjola, M. (2000). Information technology and economic growth: A cross-country analysis.
 - [2] Majeed, M. T., & Ayub, T. (2018). Information and communication technology (ICT) and economic growth nexus: A comparative global analysis. Pakistan Journal of Commerce and Social Sciences (PJCSS), 12(2), 443-476.
