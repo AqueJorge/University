@@ -24,15 +24,17 @@
 This answer can vary according to the person.
 ##### 13. What do you think is the greatest invention that occurred during the first industrial revolution?
 It can be the steam boat or train since they were the first time they were seen as transport
-##### 14. What do you think is what most characterizes Industry 3.0?
+##### 14. What was the main invention that gave rise to the second industrial revolution?
+Electricity
+##### 15. What do you think is what most characterizes Industry 3.0?
 Computers, telephones, etc.
-##### 15. In what year was the third industrial revolution unveiled?
+##### 16. In what year was the third industrial revolution unveiled?
 Around the 50s
-##### 16. How do you think the third industrial revolution helped the growth of factories and companies of that time
+##### 17. How do you think the third industrial revolution helped the growth of factories and companies of that time
 The answer may vary depending on the person. The answer can be from the help of new ways of managing a company to the automation of certain areas.
-##### 17. What is the most striking thing about Industry 4.0?
+##### 18. What is the most striking thing about Industry 4.0?
 The answer can be several, basically the main thing can be the IoT
-##### 18. How do you think Industry 4.0 affected the economy? was it for the better or for the worse?
+##### 19. How do you think Industry 4.0 affected the economy? was it for the better or for the worse?
 The answer may vary depending on the person. Industry 4.0 boosted the economy for technology but in the same way blue-collar workers were affected by the closure of automated areas
-##### 19. What do you think is the most remarkable invention for Industry 5.0?
+##### 20. What do you think is the most remarkable invention for Industry 5.0?
 The answer may vary depending on the person.
